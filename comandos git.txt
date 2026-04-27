@@ -26,3 +26,7 @@ git push -u origin main
 
 git status
 (comprueba el estado de la rama)
+
+git clone
+espacio escribe URL del repositotio
+(descarga en una carpta lo que hay en el repositorio)

@@ -1,0 +1,14 @@
+(control) + (})
+crea un comentario
+
+(!) + (--)
+comentario
+
+(control) + (z)
+dehace una accion
+
+(alt) + (z)
+ajusta el texto cuando sale de pantalla o en ver: ajuste de palabra
+
+(control) + (s)
+guarda los cambios
