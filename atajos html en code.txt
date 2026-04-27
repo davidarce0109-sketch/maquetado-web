@@ -12,3 +12,8 @@ ajusta el texto cuando sale de pantalla o en ver: ajuste de palabra
 
 (control) + (s)
 guarda los cambios
+
+(control) + (c)
+al principio de la etiqueta se copia todo
+
+(alt) + (flechas) pala subir o bajar parrafos
