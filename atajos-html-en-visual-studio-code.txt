@@ -1,0 +1,29 @@
+(control) + (})
+crea un comentario
+
+(!) + (--)
+comentario
+
+(control) + (z)
+dehace una accion
+
+(alt) + (z)
+ajusta el texto cuando sale de pantalla o en ver: ajuste de palabra
+
+(control) + (s)
+guarda los cambios
+
+(control) + (c)
+al principio de la etiqueta se copia todo
+
+(alt) + (flechas) 
+pala subir o bajar parrafos
+
+(control) + (d) 
+para seleccionar multiples marca se borra con esc dos veces
+
+h$*6
+<!-- h$*6 (abreviatura para emitir del h1 al h6 con un codigo) -->
+
+(control) + (Ñ)
+para abrir terminal
