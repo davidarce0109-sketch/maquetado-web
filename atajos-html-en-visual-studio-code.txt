@@ -27,3 +27,8 @@ h$*6
 
 (control) + (Ñ)
 para abrir terminal
+
+cuando se hagan cambios en github hacer
+git pull 
+esc + :wq + enter
+se hacen los cambios
