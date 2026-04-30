@@ -32,3 +32,6 @@ cuando se hagan cambios en github hacer
 git pull 
 esc + :wq + enter
 se hacen los cambios
+
+(alt) + (shif) + (flecha abajo)
+copia la fila en la que estoy seleccionado
