@@ -1,0 +1,27 @@
+.titulos{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+/* ```css
+Quita completamente el espacio que normalmente aparece por fuera de los elementos.
+   Es como borrar el “aire” que rodea las cosas en la página para que todo quede pegado a los bordes. 
+margin: 0;
+
+Elimina el espacio que hay dentro de los elementos, es decir, el espacio
+   entre el contenido (texto, imágenes, etc.) y el borde del elemento.
+   Sirve para que no haya separación interna innecesaria. 
+padding: 0;
+
+Define el tipo de letra que se va a usar en el texto.
+   - Primero intenta usar "Arial".
+   - Si el computador no tiene Arial, usa "Helvetica".
+   - Si tampoco tiene esa, usa cualquier letra simple sin adornos (sans-serif).
+   Esto asegura que el texto siempre se vea bien aunque falten algunas fuentes. 
+font-family: Arial, Helvetica, sans-serif;
+
+Cambia el color de todo el texto a azul.
+   Todo lo que sea texto dentro de este estilo se mostrará en ese color. 
+color: blue;
+``` */
