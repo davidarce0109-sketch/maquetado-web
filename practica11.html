@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tablas</title>
+</head>
+<body>
+
+    <!-- La etiqueta tr se utiliza para definir una fila en una tabla. Cada fila puede contener una o más
+    celdas, que se definen utilizando las eitquetas td (Celdas para datos) o th (Para celdas de encabezado)-->
+
+<!--La etiqueta th defina una celda de encabezado dentro de una fila. Cada etiqueta th representa un
+encabezado de columna en la tabla-->
+<!--la etiqueta td define una celda de datos dentro de una fila . cada etiqueta td representa una columna en la tabla-->
+
+<table border="1"> <!-- La etiqueta table se utiliza para definir tablas en HTML. Todo el contenido de la tabla
+incluidas, filas y celdas, se coloca dentro de esta etiqueta --> <!--Etiqueta de apertura-->
+    <tr><!--Fila 1-->
+        <th>Encabezado 1</th>
+        <th>Encabezado 2</th>
+        <th>Encabezado 3</th>
+    </tr>
+    <tr><!--Fila 2-->
+        <td>Dato 1</td>
+        <td>Dato 2</td>
+        <td>Dato 3</td>
+    </tr>
+    <tr>
+        <td>Dato 5</td>
+        <td>Dato 6</td>
+        <td>Dato 7</td>
+    </tr>
+</table><!--Etiqueta de cierre-->
+
+<br>
+
+<table border="1"> <!--Etiqueta de apertura-->
+   <caption> Paises y capitales</caption>
+    <tr><!--Fila 1-->
+        <th>País</th>
+        <th>Capital</th>
+    </tr>
+
+    <tr><!--Fila 2-->
+        <td>España</td>
+        <td>Madrid</td>
+    </tr>
+
+    <tr>
+        <td>Francia</td>
+        <td>París</td>
+    </tr>
+
+    <tr>
+        <td>Italia</td>
+        <td>Roma</td>
+    </tr>
+</table><!--Etiqueta de cierre-->
+
+<br>
+
+<table border="1"><!--Tabla celdas combinadas--> <!-- border="1" Muestra un borde en la tabla.El valor 1 indica un borde visible y delgado. (Hoy se recomienda usar CSS en lugar de este atributo) -->
+<tr>
+<th colspan="4">Mundial de Fútbol</th> <!-- colspan="4" Hace que una celda ocupe 4 columnas. Se usa para extender una celda horizontalmente -->
+</tr>
+<tr>
+    <td rowspan="3">Paises con mayoría de goles</td> <!-- rowspan="3" Hace que una celda ocupe 3 filas. Se usa para extender una celda verticalmente -->
+    <td>Brasil</td> <td>230</td>
+</tr>
+<tr>
+    <td>Alemania</td> <td>180</td>
+</tr>
+<tr>
+<td>Argentina</td> <td>150</td>
+</tr>
+</table> <!--Etiqueta de cierre-->
+</body>
+
+</html>
