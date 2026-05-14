@@ -35,3 +35,9 @@ se hacen los cambios
 
 (alt) + (shif) + (flecha abajo)
 copia la fila en la que estoy seleccionado
+
+li.$*N
+uso esto donde n=a numero de lista con clase
+
+ul.nombrede clase
+de la clase al ul
