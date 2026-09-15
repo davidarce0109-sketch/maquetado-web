@@ -1,10 +1,10 @@
 git init
 (sirve para iniciar el repositorio local)
 
-git config --local user.name "mi nombre"
+git config --local user.name "David Arce"
 (esto configura el nombre de usuario localmente)
 
-git config --local user.email "mi email de github"
+git config --local user.email "samaritano0109@gmail.com"
 (esto configura el email de usuario asociado a la cuenta de github)
 
 git branch -M main
@@ -14,7 +14,7 @@ git add .
 (añade todos los archivos al reposiorio)
 
 
-git commit -m "version de subida"
+git commit -m "vs"
 (es la version que usted  esta subiendo al repositorio)
 
 git remote add origin 
